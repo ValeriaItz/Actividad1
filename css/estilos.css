@@ -1,0 +1,22 @@
+h1 {
+    color: purple;
+    background-color: plum;
+    font-family: sans-serif;
+    margin: 1% 1% 0% 1%;
+}
+
+h2 {
+    color: purple;
+    background-color: plum;
+    font-family: sans-serif;
+    margin: 0% 1% 1% 1%;
+}
+
+.image {
+    height: 400px;
+    width: 45vw;
+    margin: 1% 0 1% 1%;
+}
+.image:hover {
+    filter: grayscale(70%);
+}
